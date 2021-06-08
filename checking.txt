@@ -1,1 +1,16 @@
-Image.jpg  checking.txt  index.html  next.html	test1.txt
+@@@@@@@@@@@@@@@@@@@@@
+#################
+$$$$$$$$$$$$$$$$$$$$$$
+^^^^^^^^^^^^^^^^^^^^^
+
+olume in drive C is OS
+ Volume Serial Number is 6085-787A
+
+ Directory of C:\Users\RUGI KIRAN\Desktop\Myproject
+
+08-06-2021  16:31    <DIR>          .
+08-06-2021  16:31    <DIR>          ..
+08-06-2021  16:30    <DIR>          .git
+08-06-2021  16:31                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  921,427,951,616 bytes free
